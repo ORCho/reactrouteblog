@@ -1,0 +1,19 @@
+.searchinput.hide{
+    border:0;
+    width:0;
+    transition: width 0.1s ease-in;
+}
+
+.searchinput{
+    width:150px;
+}
+
+.icon{
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+}
+
+.searchinput:focus{
+    outline:none;
+}
