@@ -14,11 +14,12 @@ function Navbar() {
                 </button>
                 <div className="collapse navbar-collapse" id="navbarResponsive">
                     <ul className="navbar-nav text-uppercase ml-auto">
-                        <li className="nav-item"><NavLink className="nav-link js-scroll-trigger" to="/">About Me</NavLink></li>
-                        <li className="nav-item"><NavLink className="nav-link js-scroll-trigger" to="/contactus">Portfolio</NavLink></li>
-                        <li className="nav-item"><NavLink className="nav-link js-scroll-trigger" to="/post">Blog</NavLink></li>
-                        <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#team">History</a></li>
-                        <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#contact">Contact</a></li>
+                        <li className="nav-item"><NavLink className="nav-link text-right js-scroll-trigger" to="/">Home</NavLink></li>
+                        <li className="nav-item"><NavLink className="nav-link text-right js-scroll-trigger" to="/contactus">About Me</NavLink></li>
+                        <li className="nav-item"><NavLink className="nav-link text-right js-scroll-trigger" to="/contactus">Portfolio</NavLink></li>
+                        <li className="nav-item"><NavLink className="nav-link text-right js-scroll-trigger" to="/post">Blog</NavLink></li>
+                        <li className="nav-item"><a className="nav-link text-right js-scroll-trigger" href="#team">Skills</a></li>
+                        <li className="nav-item"><a className="nav-link text-right js-scroll-trigger" href="#contact">Contact</a></li>
                     </ul>
                 </div>
             </div>
