@@ -3984,6 +3984,7 @@ input[type=button].btn-block {
   justify-content: space-between;
   padding: 0.5rem 1rem;
 }
+
 .navbar .container,
 .navbar .container-fluid,
 .navbar .container-sm,
@@ -7370,7 +7371,7 @@ button.bg-dark:focus {
 }
 
 .fixed-top {
-  /* position: fixed; */
+  position: fixed;
   top: 0;
   right: 0;
   left: 0;
@@ -10141,7 +10142,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: left;
   color: #343a40;
-  /* background-image: url("./background.jpg"); */
+  background-image: url("./background.jpg");
 
   background-repeat: no-repeat;
   background-attachment: scroll;
