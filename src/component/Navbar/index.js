@@ -17,9 +17,9 @@ function Navbar() {
                     <ul className="navbar-nav text-uppercase ml-auto">
                             <li className="nav-item"><NavLink className="nav-link text-right js-scroll-trigger" to="/">Home</NavLink></li>
                             <li className="nav-item"><a className="nav-link text-right js-scroll-trigger" href="/#about">About Me</a></li>
-                        <li className="nav-item"><NavLink className="nav-link text-right js-scroll-trigger" to="/contactus">Portfolio</NavLink></li>
+                        <li className="nav-item"><a className="nav-link text-right js-scroll-trigger" href="/#portfolio">Portfolio</a></li>
                         <li className="nav-item"><NavLink className="nav-link text-right js-scroll-trigger" to="/post">Blog</NavLink></li>
-                        <li className="nav-item"><a className="nav-link text-right js-scroll-trigger" href="/#team">Skills</a></li>
+                        {/* <li className="nav-item"><a className="nav-link text-right js-scroll-trigger" href="/#team">Skills</a></li> */}
                         <li className="nav-item"><a className="nav-link text-right js-scroll-trigger" href="/#contact">Contact</a></li>
                     </ul>
                 </div>

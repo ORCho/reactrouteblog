@@ -15,7 +15,7 @@ function Home(props) {
                         <div class="masthead-heading text-uppercase">Chloe Huang</div>
                         <div class="masthead-subheading">I  code, design and visualize data!</div>
 
-                        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Know more about me</a>
+                        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#portfolio">Know more about me</a>
                     </div>
                 </header>
         
@@ -23,7 +23,7 @@ function Home(props) {
                     <div class="container">
                         <div class="text-center">
                             <h2 class="section-heading text-uppercase">About Me</h2>
-                            <h3 class="section-subheading text-muted">I am a designer focus I data Visualization and Graphic Design</h3>
+                            <h3 class="section-subheading text-muted">I am a designer focus on data Visualization and Graphic Design</h3>
                         </div>
                         <div class="row text-center">
                             <div class="col-md-4">
@@ -55,11 +55,11 @@ function Home(props) {
                         </div>
                     </div>
                 </section>
-      
+            <section id="portfolio">
             <Portfolio />
+            </section>
 
-
-            <section class="page-section" id="">
+            {/* <section class="page-section" id="">
                 <div class="container">
                     <div class="text-center">
                         <h2 class="section-heading text-uppercase">About</h2>
@@ -119,7 +119,7 @@ function Home(props) {
                         </li>
                     </ul>
                 </div>
-            </section>
+            </section> */}
         
         {/* <section class="page-section bg-light" id="team">
             <div class="container">
@@ -189,7 +189,7 @@ function Home(props) {
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Contact Me</h2>
                         <h3 class="section-subheading text-muted">
-                        <a href="mailto:chloeHuang@gmail.com">chloeHuang@gmail.com</a>                        </h3>
+                        <a href="mailto:chloehuang@gmail.com">chloehuang@gmail.com</a>                        </h3>
                 </div>
                 
             </div>

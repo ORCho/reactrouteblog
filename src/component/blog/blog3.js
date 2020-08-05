@@ -1,8 +1,8 @@
 import React from 'react'
 
-function blog3() {
+function blog() {
     return (
-        <div>
+        <div className="blog">
             <h1>This is a red red red red  table</h1>
             <h1>Now i can build my own blog
             111</h1>
@@ -12,4 +12,4 @@ function blog3() {
     )
 }
 
-export default blog3
+export default blog

@@ -14,16 +14,18 @@ function Post(props) {
 
 
     return (
-        <div>
+        <div id="post">
+            
             {posts.map(function (postdetails) {
                 console.log(postdetails.idurl);
                
             return (
                 <div>
-                <NavLink to={'./blog/'+ postdetails.idurl }>
-                {/* <h3>{postdetails.blogtext}</h3> */}
-                    <p>{postdetails.blogTitle}</p>
+                <NavLink id="posta" to={'./blog/'+ postdetails.idurl }>
+                        <h6>{postdetails.blogTitle}</h6>
                     </NavLink>
+                    <p>{postdetails.postOn}</p>
+
                 </div>
                 
             
