@@ -2,11 +2,10 @@ import React from 'react';
 import Portfolio from './component/portfolio/index'
 import Home from './component/home';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import Contact from './component/contactus';
+// import Contact from './component/contactus';
 import Post from './component/post';
 import Navbar from './component/Navbar';
 import Blog from './blogindex';
-import Privacy from './component/privacy';
 
 function App() {
     return (
@@ -14,7 +13,7 @@ function App() {
             <Navbar />
             <Switch>
                 <Route path='/blog/:postId' component={Blog} /> 
-                <Route path='/contactus' exact component={Contact}/>
+                {/* <Route path='/contactus' exact component={Contact}/> */}
                 <Route path='/' exact component={Home} />
                 <Route path='/post' exact component={Post} />
             </Switch>
@@ -25,7 +24,7 @@ function App() {
                             <div class="col-lg-4 my-3 my-lg-0">
                                 {/* <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a> */}
                                 {/* <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a> */}
-                                <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
+                                <a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/qian-yi-huang-7a20943a/"><i class="fab fa-linkedin-in"></i></a>
                             </div>
                             <div class="col-lg-4 text-lg-right">
                                 <a class="mr-3" href="#!">Created by CH with 💗</a>
