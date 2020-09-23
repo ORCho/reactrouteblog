@@ -16,14 +16,20 @@ function Portfolio() {
                                 return (
                                     <div class="col-lg-4 col-sm-6 mb-4">
                                         <div class="portfolio-item">
-                                        <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
+                                        <div class="portfolio-link" data-toggle="modal" >
+                                        <a href={portname1.projectURL}>
                                         <div class="portfolio-hover">
-                                          <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                          
+                                                <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                                </div>
+
+                                        
+                                                    <img class="img-fluid" src={portname1.imageURL} alt=""></img>
+                                                    
+                                                    </a>
                                         </div>
-                                            <img class="img-fluid" src="https://static.vecteezy.com/system/resources/thumbnails/000/246/237/original/love-and-peace-hand-drawn-doodle-and-lettering.jpg" alt="" />
-                                        </a>
                                             <div class="portfolio-caption">
-                                            <div class="portfolio-caption-heading"><a href={portname1.projectURL}>{portname1.name}</a></div>
+                                                <div class="portfolio-caption-heading"><a href={portname1.projectURL}>{portname1.name}</a></div>
                                             <div class="portfolio-caption-subheading text-muted">{portname1.details}</div>
                                             </div>
                                         </div>

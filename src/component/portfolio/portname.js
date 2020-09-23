@@ -1,10 +1,10 @@
 const portname = [
     {
         id: 1,
-        name: "data science 1",
-        projectURL: "https://google.com",
+        name: "Data Visulization with D3",
+        projectURL: "https://datavizbych.herokuapp.com/",
         imageURL:"https://static.vecteezy.com/system/resources/thumbnails/000/246/237/original/love-and-peace-hand-drawn-doodle-and-lettering.jpg",
-        details:"This is my portfolio",
+        details:"This is a D3 project.",
 },
 {
     id: 2,
