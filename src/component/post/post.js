@@ -28,7 +28,7 @@ const blogpost = [
 
     {
         id: 3,
-        idurl:"Data-Visulization-Study-3",
+        idurl:"blog3",
         name: "data science 3",
         projectURL: "https://google.com",
         details:"This is my portfolio",
