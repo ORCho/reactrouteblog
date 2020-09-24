@@ -27,7 +27,7 @@ function App() {
                                 <a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/qian-yi-huang-7a20943a/"><i class="fab fa-linkedin-in"></i></a>
                             </div>
                             <div class="col-lg-4 text-lg-right">
-                                <a class="mr-3" href="#!">Created by CH with 💗</a>
+                                <a class="mr-3" href="">Created by CH with 💗</a>
                             </div>
                         </div>
                     </div>

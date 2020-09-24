@@ -23,7 +23,7 @@ function Home(props) {
                     <div class="container">
                         <div class="text-center">
                             <h2 class="section-heading text-uppercase">About Me</h2>
-                            <h3 class="section-subheading text-muted">I am a designer focus on data Visualization and Graphic Design</h3>
+                            <h3 class="section-subheading text-muted">I am a designer focus on Data Visualization and Creative Thinking</h3>
                         </div>
                         <div class="row text-center">
                             <div class="col-md-4">
