@@ -9,7 +9,7 @@ const portname = [
 {
     id: 2,
     name: "Design from Scratch",
-    projectURL: "https://google.com",
+    projectURL: "",
     details:"Design handscript",
     imageURL:"./project2.png",
 
