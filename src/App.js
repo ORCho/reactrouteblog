@@ -25,7 +25,10 @@ function App() {
                                 {/* <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a> */}
                                 {/* <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a> */}
                                 <a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/qian-yi-huang-7a20943a/"><i class="fab fa-linkedin-in"></i></a>
-                            </div>
+                                <a class="btn btn-dark btn-social mx-2" href="https://github.com/ORCho?tab=repositories"><i class="fab fa-github"></i></a>
+
+                        
+                        </div>
                             <div class="col-lg-4 text-lg-right">
                                 <a class="mr-3" href="">Created by CH with 💗</a>
                             </div>
