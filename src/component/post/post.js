@@ -1,7 +1,7 @@
 const blogpost = [
     {
         id: 1,
-        idurl:"Blog 1",
+        idurl:"Blog1",
         name: "data science 1",
         projectURL: "./post/blog1",
         imageURL:"https://static.vecteezy.com/system/resources/thumbnails/000/246/237/original/love-and-peace-hand-drawn-doodle-and-lettering.jpg",
