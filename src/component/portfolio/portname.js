@@ -30,6 +30,15 @@ const portname = [
             imageURL:"./project4.png",
 
 },
+{
+    id: 5,
+    name: "Web Development with R",
+    projectURL: "https://chloehuang.shinyapps.io/Capstone_project/",
+    details:"R project",
+            imageURL:"./project5.png",
+
+},
+
 
 ]
 
