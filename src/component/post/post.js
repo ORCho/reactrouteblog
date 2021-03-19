@@ -22,7 +22,7 @@ const blogpost = [
         blogtext: "In the room there is an apple",
         author: "Chloe",
         postOn:"July 21, 2020",
-        blogTitle:"Data Visulization Study 2",
+        blogTitle:"Blog 2",
         blogCategory:"My WebDev"
         },
 
@@ -36,7 +36,7 @@ const blogpost = [
         blogtext: "In the room there is an apple",
         author: "Chloe",
         postOn:"July 21, 2020",
-        blogTitle:"Data Visulization Study 3",
+        blogTitle:"Blog 3",
         blogCategory:"My WebDev"
     },
     // {
@@ -62,7 +62,7 @@ const blogpost = [
         blogtext: "In the room there is an apple",
         author: "Chloe",
         postOn:"July 21, 2020",
-        blogTitle:"Data Visualization study 5",
+        blogTitle:"Blog 5",
         blogCategory:"My WebDev",
         details:"This is my portfolio",
     },
