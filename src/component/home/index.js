@@ -13,7 +13,7 @@ function Home(props) {
                     <div class="container">
                         <div class="masthead-subheading">Hi, I am</div>
                         <div class="masthead-heading text-uppercase">Chloe Huang</div>
-                        <div class="masthead-subheading">I  code, design and visualize data!</div>
+                        <div class="masthead-subheading">I am a business analyst I love design and creating beautiful things!</div>
 
                         <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#portfolio">Know more about me</a>
                     </div>
@@ -23,7 +23,7 @@ function Home(props) {
                     <div class="container">
                         <div class="text-center">
                             <h2 class="section-heading text-uppercase">About Me</h2>
-                            <h3 class="section-subheading text-muted">I am a designer focus on Data Visualization and Creative Thinking</h3>
+                            <h3 class="section-subheading text-muted">I am a data analyst. I am a visual thinker who love design</h3>
                         </div>
                         <div class="row text-center">
                             <div class="col-md-4">
@@ -40,8 +40,8 @@ function Home(props) {
                                     <i class="fas fa-circle fa-stack-2x text-primary"></i>
                                     <i class="fas fa-chart-area fa-stack-1x fa-inverse"></i>
                                 </span>
-                                <h4 class="my-3">Data Visualization</h4>
-                                <p class="text-muted">I start to devlop webpage and other cool stuffs. </p>
+                                <h4 class="my-3">Visual Thinking</h4>
+                                <p class="text-muted">I start to develop webpage and other cool stuffs. </p>
                         </div>
                         
                         <div class="col-md-4">
@@ -50,7 +50,7 @@ function Home(props) {
                                     <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
                                 </span>
                                 <h4 class="my-3">Web Dev</h4>
-                                <p class="text-muted">I was Business Analyst before I start my career. </p>
+                                <p class="text-muted">I am a newbie to Web Development</p>
                         </div>
                         </div>
                     </div>
@@ -189,7 +189,7 @@ function Home(props) {
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Contact Me</h2>
                         <h3 class="section-subheading text-muted">
-                        <a href="mailto:chloehuang@gmail.com">chloehuang@gmail.com</a>                        </h3>
+                        <a href="mailto:chloehuang@gmail.com">chloe.huangqy@gmail.com</a>                        </h3>
                 </div>
                 
             </div>
