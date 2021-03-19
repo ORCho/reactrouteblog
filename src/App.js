@@ -24,7 +24,7 @@ function App() {
                             <div class="col-lg-4 my-3 my-lg-0">
                                 {/* <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a> */}
                                 {/* <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a> */}
-                                <a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/qian-yi-huang-7a20943a/"><i class="fab fa-linkedin-in"></i></a>
+                                <a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
                                 <a class="btn btn-dark btn-social mx-2" href="https://github.com/ORCho?tab=repositories"><i class="fab fa-github"></i></a>
 
                         
